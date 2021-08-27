@@ -1,0 +1,25 @@
+{
+  "name": "emoji-today-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy-chou/emoji-today-bot.git"
+  },
+  "author": "HsuanYu CHOU",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/hy-chou/emoji-today-bot/issues"
+  },
+  "homepage": "https://github.com/hy-chou/emoji-today-bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-static": "^0.7.11",
+    "twit": "^2.2.11"
+  }
+}
